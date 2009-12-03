@@ -1,0 +1,6 @@
+en:
+  activerecord:
+    errors:
+      messages:
+        paperclip_dimensions: dimensions must be {{min_width}}..{{max_width}}px wide by {{min_height}}..{{max_height}}px tall
+        paperclip_ratio: ratio must be {{min_ratio}} to {{max_ration}}
